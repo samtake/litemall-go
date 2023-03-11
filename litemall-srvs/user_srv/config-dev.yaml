@@ -1,0 +1,12 @@
+name: 'user-srv'
+mysql:
+  host: '127.0.0.1'
+  port: 55002
+  user: 'root'
+  password: 'mysqlpw'
+  db: 'litemall_user_srv'
+
+
+consul:
+  host: '127.0.0.1'
+  port: 8500

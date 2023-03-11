@@ -1,0 +1,44 @@
+#nacos
+host: '127.0.0.1'
+port: 8848
+namespace: '0612a9a1-5a9b-44f4-ba6b-3a63980a9075'
+user: 'nacos'
+password: 'nacos'
+dataid: 'user-web.json'
+group: 'dev'
+
+
+
+
+#name: 'user-web'
+#host: '127.0.0.1'
+#port: 8021
+#
+##用户微服务配置
+#user_srv:
+#  host: '127.0.0.1'
+#  port: 50051
+#  name: 'user-srv'
+#
+##jwt
+#jwt:
+#  key: 'bna@j8^EFm*3qh4e'
+#
+##短信配置
+#sms:
+#  key: ''
+#  secret: ''
+#  expire: 300
+#
+##redis配置
+#redis:
+#  host: 127.0.0.1
+#  port: 55001
+#  user: 'default'
+#  password: 'redispw'
+#
+#
+##consul
+#consul:
+#  host: '127.0.0.1'
+#  port: 8500
